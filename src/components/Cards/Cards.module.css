@@ -4,9 +4,13 @@
     padding: 20px;
 }
 
-.img {
-    height: 300px;
-    width: 200px;
+h1 {
+    font-weight: bold;
+}
+
+.image {
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 img {
@@ -17,4 +21,9 @@ img {
 .info {
     height: 100%;
     width: 500px;
+}
+
+ul {
+    margin: 0; 
+    padding: 0;
 }
